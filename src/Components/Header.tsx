@@ -139,7 +139,11 @@ function Header() {
   const history = useHistory();
   const { register, handleSubmit } = useForm<IForm>();
   const onValid = (data: IForm) => {
-    history.push(`/search?keyword=${data.keyword}`)
+    try {
+    history.push(`/search?keyword=${data.keyword}`) }
+    catch (e) {
+      return;
+    }
   };
   return (
     <Nav variants={navVariants} animate={navAnimation} initial={"top"}>
