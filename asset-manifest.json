@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/fizzflix/static/js/main.91ec9bd3.chunk.js",
+    "main.js.map": "/fizzflix/static/js/main.91ec9bd3.chunk.js.map",
+    "runtime-main.js": "/fizzflix/static/js/runtime-main.74baaecd.js",
+    "runtime-main.js.map": "/fizzflix/static/js/runtime-main.74baaecd.js.map",
+    "static/js/2.40a72701.chunk.js": "/fizzflix/static/js/2.40a72701.chunk.js",
+    "static/js/2.40a72701.chunk.js.map": "/fizzflix/static/js/2.40a72701.chunk.js.map",
+    "index.html": "/fizzflix/index.html",
+    "static/js/2.40a72701.chunk.js.LICENSE.txt": "/fizzflix/static/js/2.40a72701.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74baaecd.js",
+    "static/js/2.40a72701.chunk.js",
+    "static/js/main.91ec9bd3.chunk.js"
+  ]
+}
